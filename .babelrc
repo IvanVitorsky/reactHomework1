@@ -1,0 +1,8 @@
+/* Specifies what level of language features to activate. Stage 2 is "draft", 4 is finished, 0 is strawman. */
+{
+  "presets": [
+    ["es2015", {"modules": false}],
+    "stage-2",
+    "react"
+  ],
+}
